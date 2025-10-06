@@ -1,0 +1,11 @@
+/venv/
+
+# Ignorar directorios de Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignorar archivos temporales y logs
+*.log
+
+# Ignorar la carpeta de plots si no deseas subir todas las imágenes
+ /plots/
