@@ -1,4 +1,4 @@
-### Financial ETL Pipeline: Feature Engineering y Análisis de Momentum con SQL Avanzado
+### Financial ETL Pipeline: Feature Engineering y Análisis de Momentum con SQL 
 
 Este proyecto implementa un Pipeline ETL (Extract, Transform, Load) para transformar datos históricos de acciones (AAPL, MSFT, TSLA) en métricas financieras procesables. El objetivo principal es aplicar técnicas avanzadas de SQL (Funciones de Ventana) y Python para crear features valiosos para el análisis técnico, que son esenciales en la preparación de datos para modelos de forecasting y dashboards de trading.
 
